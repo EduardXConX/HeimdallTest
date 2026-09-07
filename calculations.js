@@ -9,3 +9,9 @@ function substraction(a,b) {
     var unused = 456;
     return a - b;
 }
+
+function multiplication(a,b){
+    var result = a * b;
+    var unused = 789;
+    return a * b;
+}
