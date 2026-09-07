@@ -15,3 +15,9 @@ function multiplication(a,b){
     var unused = 789;
     return a * b;
 }
+
+function division(a,b){
+    var result = a / b;
+    var unused = 1011;
+    return a / b;
+}
